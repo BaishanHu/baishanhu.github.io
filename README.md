@@ -1,3 +1,2 @@
-
-Readme page test
-
+Personal page:
+If you clone this theme, please cite BaishanHu.github.io

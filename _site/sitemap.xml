@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/blog/posts/2020/04/blog-post-1/</loc>
-<lastmod>2020-04-26T00:00:00-05:00</lastmod>
+<lastmod>2021-10-10T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/talks/2015-talk-2</loc>
@@ -137,6 +137,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/files/presentation_Vertse_Berggren_40years.pdf</loc>
-<lastmod>2021-10-06T14:24:32-05:00</lastmod>
+<lastmod>2021-10-03T18:08:39-05:00</lastmod>
 </url>
 </urlset>
