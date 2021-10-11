@@ -87,8 +87,8 @@ author:
   location         : "Chicago, USA"
   employer         :
   pubmed           :
-  arxiv            : "fossez_k_1.html"
-  googlescholar    : "https://scholar.google.com/citations?user=0dKGiPsAAAAJ&hl=en"
+  arxiv            : "hu_b_3.html"
+  googlescholar    : "https://scholar.google.com/citations?user=h1UW7HwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -98,14 +98,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kevinfossez"
+  github           : "baishanhu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "kévin-fossez-13789798"
-  orcid            : "https://orcid.org/0000-0002-5823-4446"
+  orcid            : "https://orcid.org/0000-0001-8071-158X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
