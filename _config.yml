@@ -13,8 +13,8 @@ name                     : "Baishan Hu"
 description              : "Ab initio calculations of nuclear structure and reactions"
 url                      : "https://baishanhu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
-repository               : "BaishanHu/baishanhu.github.io"
-teaser                   : "Cartoon_Baishan.gif" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "baishanhu/baishanhu.github.io"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 logo                     : #"images/logo_eclipse_MSU.png"
 words_per_minute         : 160
