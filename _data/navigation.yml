@@ -1,6 +1,30 @@
-# Site navigation links
+# main links links
+main:
+  - title: "CV"
+    url: /cv/
+    excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+    image:
 
-- title:
-  url:
-  excerpt:
-  image:
+  # - title: "Overflow"
+  #   url: /overflow/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Code"
+    url: /code/
+
+  - title: "Miscellaneous"
+    url: /misc/
+
+  # - title: "Nuclear charts"
+  #   url: /charts/

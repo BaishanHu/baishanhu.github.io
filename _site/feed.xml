@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2021-10-10T19:31:39-05:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Personal page</title><subtitle>Ab initio calculations of nuclear structure and reactions</subtitle><author><name>Baishan Hu</name></author><entry><title type="html">LaTeX on Github Pages+minimal mistakes+MathJax</title><link href="http://localhost:4000/blog/posts/2020/04/blog-post-1/" rel="alternate" type="text/html" title="LaTeX on Github Pages+minimal mistakes+MathJax" /><published>2021-10-10T00:00:00-05:00</published><updated>2021-10-10T00:00:00-05:00</updated><id>http://localhost:4000/blog/posts/2020/04/post-1</id><content type="html" xml:base="http://localhost:4000/blog/posts/2020/04/blog-post-1/">&lt;p&gt;To have $\LaTeX$ equations on this website, which is run on Github Pages using Jekyll and AcademicPages (a fork of Minimal Mistakes), I had to make a few guesses, so here are the secrets.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-mathjax&quot;&gt;Setting up MathJax&lt;/h2&gt;
+
+&lt;p&gt;First, the LaTeX code is interpreted using MathJax, which is loaded and configured in the file:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;_includes/head/custom.html
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I modified the default configuration of MathJax to use ‘$$’ instead of ‘$’ to delimitate LaTeX code (but there is a catch) or adding some commands (macros) for quantum mechanics.&lt;/p&gt;
+
+&lt;p&gt;On the original repository, the version 2.7.4 is loaded by default, I changed it to the 2.7.7 just to have something more recent. I tried the version 3.0.5 and all the equations disappeared, so I did not insist. The modified part of the file looks like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;script type=&quot;text/x-mathjax-config&quot;&amp;gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$$','$$'], [&quot;\\(&quot;,&quot;\\)&quot;] ],
+      displayMath: [ ['$$','$$'], [&quot;\\(&quot;,&quot;\\)&quot;] ],
+    },
+    TeX: {
+      Macros: {
+        bra: [&quot;\\langle{#1}|&quot;, 1],
+        ket: [&quot;|{#1}\\rangle&quot;, 1],
+        braket: [&quot;\\langle{#1}\\rangle&quot;, 1],
+        bk: [&quot;\\langle{#1}|{#2}|{#3}\\rangle&quot;, 3]
+     }
+   }
+  });
+&amp;lt;/script&amp;gt;
+
+&amp;lt;script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML' async&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The file mentioned is already included in the header of the default layout for pages which can be found at:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;_layouts/default.html
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Any page based on this layout or another layout based on it will benefit from MathJax automatically. 
+At that point the only tricky part is to write equations that will be properly interpreted.&lt;/p&gt;
+
+&lt;h2 id=&quot;writing-interpretable-latex&quot;&gt;Writing interpretable \(\LaTeX\)&lt;/h2&gt;
+
+&lt;p&gt;It took me hours to figure out how to have aligned equations and matrices with the system powering this website, so here is what I believe I understood:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You need to tell Markdown (the language of the .md files) when LaTeX code starts and ends.&lt;/li&gt;
+  &lt;li&gt;Markdown accepts both LaTeX code surrounded by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\$\$&lt;/code&gt; or directly between &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\\begin{...}&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\\end{...}&lt;/code&gt; statements.&lt;/li&gt;
+  &lt;li&gt;Something I do not understand will wrap any LaTeX code surrounded by ‘$$’ that contains an ampersand (‘\&amp;amp;’) with a ‘CODATA’ which will comment out the code by accident.&lt;/li&gt;
+  &lt;li&gt;LaTeX code directly between ‘begin’ and ‘end’ statements (no dollar sings) can contain ampersands if it is formatted as follows:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;\begin{equation}
+\begin{aligned}
+  ...
+\end{aligned}
+\end{equation}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The trick is the use of the ‘aligned’ environment from AMS. Why it is like that? I have no idea.&lt;/p&gt;
+
+&lt;p&gt;There are some additional rules that I had to guess. For example, between dollar signs underscores are interpreted directly as LaTeX code, but without the dollar signs Markdown seems to mess with them in some cases as shown below:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$$ {X}_{0} $$ (works)
+$$ X_0 $$ (works)
+
+\begin{equation}
+\begin{aligned}
+  {X}_{0} (does not always work)
+  {X}\_{0} (works)
+  X_0 (works)
+  \hat{a}_{b} (does not always work)
+  \hat{a}_b (works)
+  \hat{a}_{b+c} (works)
+\end{aligned}
+\end{equation}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;A challenging part was to guess how to deal with spaces, linebreaks, and ampersands. In the example below, because there are no dollar signs for the reason explained above, the usual two backslashes must be quadrupled. From what I understood, there are escape backslashes for Markdown and other things and so many of them will disappear before the LaTeX code is interpreted by MathJax.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;\begin{equation}
+\begin{aligned}
+  {\sigma}_{1} =  
+  \begin{pmatrix}
+    0 &amp;amp; 1 \\\\\\\\
+    1 &amp;amp; 0
+  \end{pmatrix} 
+\end{aligned}
+\end{equation}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Finally, the last trick is for having, for example, a sum of matrices. No blank space is allowed at the end of each line, like in:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;\begin{equation}
+\begin{aligned}
+  X_0 \otimes X_1 =  
+  \begin{pmatrix}
+    0\begin{pmatrix} 
+      0 &amp;amp; 1 \\\\\\\\
+      1 &amp;amp; 0
+    \end{pmatrix} &amp;amp; 1\begin{pmatrix}
+                      0 &amp;amp; 1 \\\\\\\\
+                      1 &amp;amp; 0
+                     \end{pmatrix} \\\\\\\\
+    1\begin{pmatrix} 
+      0 &amp;amp; 1 \\\\\\\\
+      1 &amp;amp; 0
+     \end{pmatrix} &amp;amp; 0\begin{pmatrix}
+                       0 &amp;amp; 1 \\\\\\\\
+                       1 &amp;amp; 0
+                      \end{pmatrix} 
+  \end{pmatrix} = 
+  \begin{pmatrix}
+    0 &amp;amp; 0 &amp;amp; 0 &amp;amp; 1 \\\\\\\\
+    0 &amp;amp; 0 &amp;amp; 1 &amp;amp; 0 \\\\\\\\
+    0 &amp;amp; 1 &amp;amp; 0 &amp;amp; 0 \\\\\\\\
+    1 &amp;amp; 0 &amp;amp; 0 &amp;amp; 0 
+  \end{pmatrix}
+\end{aligned}
+\end{equation}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I hope this will help a few people.&lt;/p&gt;</content><author><name>Baishan Hu</name></author><category term="mathjax" /><category term="latex" /><summary type="html">To have $\LaTeX$ equations on this website, which is run on Github Pages using Jekyll and AcademicPages (a fork of Minimal Mistakes), I had to make a few guesses, so here are the secrets.</summary></entry></feed>
