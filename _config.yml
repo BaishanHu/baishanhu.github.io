@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Personal page"
 title_separator          : "-"
-name                     : "Kevin Fossez"
-description              : "Nuclei as open quantum systems"
+name                     : "Baishan Hu"
+description              : "Ab initio calculations of nuclear structure and reactions"
 url                      : "https://baishanhu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "baishanhu/baishanhu.github.io"
@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Fossez"
+  name             : "Baishan Hu"
   avatar           : "profile_Baishan.jpg" #"logo_eclipse_MSU.png" #"profile.png" #must be put in images/
-  bio              : "FRIB Theory Fellow at Michigan State University and Argonne National Laboratory"
+  bio              : "Postdoctoral Fellow at TRIUMF"
   location         : "Chicago, USA"
   employer         :
   pubmed           :
