@@ -12,9 +12,9 @@ title_separator          : "-"
 name                     : "Baishan Hu"
 description              : "Ab initio calculations of nuclear structure and reactions"
 url                      : "https://baishanhu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "baishanhu/baishanhu.github.io"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 logo                     : #"images/logo_eclipse_MSU.png"
 words_per_minute         : 160
@@ -84,9 +84,9 @@ author:
   name             : "Baishan Hu"
   avatar           : "profile_Baishan.jpg" #"logo_eclipse_MSU.png" #"profile.png" #must be put in images/
   bio              : "Postdoctoral Fellow at TRIUMF"
-  location         : "Vancouver, Canada"
+  location         :
   employer         :
-  pubmed           :
+  pubmed           : 
   arxiv            : "hu_b_3.html"
   googlescholar    : "https://scholar.google.com/citations?user=h1UW7HwAAAAJ&hl=en"
   email            :
@@ -111,7 +111,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : 
   vine             :
   weibo            :
   xing             :
