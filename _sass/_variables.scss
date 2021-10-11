@@ -13,13 +13,13 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, "Times New Roman", serif;
-$sans-serif                 : "Helvetica Neue","Segoe UI",Arial, sans-serif;
-$monospace                  : monospace;
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : "Helvetica Neue","Segoe UI",Arial,sans-serif;
+$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
@@ -46,8 +46,6 @@ $type-size-8                : 0.625em;  // ~10px
 /*
    Colors
    ========================================================================== */
-$white                        : #fff;
-$black                        : #000;
 
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
@@ -55,18 +53,18 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #ebebeb;
+$body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : #313130;
-$border-color               : $dark-gray;
+$text-color                 : $dark-gray;
+$border-color               : $lighter-gray;
 
-$primary-color              : $black;
-$success-color              : #2ecc71;
-$warning-color              : #f1c40f;
-$danger-color               : #e74c3c;
-$info-color                 : #3498db;
+$primary-color              : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #52adc8;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -148,7 +146,7 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 3px;
+$border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;

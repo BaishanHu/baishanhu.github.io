@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  overlay_image: ../images/background4.png
+  overlay_image: ../images/image_system-network-connection-connected.jpg
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 ---
 
@@ -18,102 +18,89 @@ header:
   {% include archive-single.html %}
 {% endfor %}
 
-You can also find my articles on [INSPIRE](https://inspirehep.net/authors/1763531)
 
-1. **B. S. Hu**, J. Padua-Argüelles, S. Leutheusser, T. Miyagi, S. R. Stroberg and J. D. Holt
-  <br/>_Ab initio structure factors for spin-dependent dark matter direct detection_  
-  Phys. Rev. Lett, under review. arXiv:2109.00193v1 (2021). [arxiv](https://arxiv.org/abs/2109.00193)  
 
-2. B. Dai, **B. S. Hu**, Y. Z. Ma, J. G. Li, S. M. Wang, C. W. Johnson, and F. R. Xu  
-  _Tensor force role in β decays analyzed within the Gogny-interaction shell model_  
-  Phys Rev C 103 (2021) 064327. arXiv:2109.02205 (2021). [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.064327)  [arxiv](https://arxiv.org/abs/2109.02205) 
-  
-3. **B.S. Hu**, Q. Wu, J.G. Li, Y.Z. Ma, Z.H. Sun, N. Michel and F.R. Xu 
-  <br/>_An ab-initio Gamow shell model approach with a core_  
-  Phys. Lett. B 802 (2020) 135206. arXiv:2001.02832 (2020). [article](https://doi.org/10.1016/j.physletb.2020.135206) [arxiv](https://arxiv.org/abs/2001.02832)  
+## Nuclear Physics
 
-4. J.G. Li, **B.S. Hu**, Q. Wu, Y. Gao, S.J. Dai and F.R. Xu  
-  _Neutron-rich calcium isotopes within realistic Gamow shell model calculations with continuum coupling_  
-  Phys Rev C 102 (2020) 034302. arXiv:2008.11948 (2020). [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.034302)  [arxiv](https://arxiv.org/abs/2008.11948)
+14- **K. Fossez** and J. Rotureau  
+  _Density matrix renormalization group description of the island of inversion isotopes $^{28-33}\text{F}$}_  
+  Submitted [arxiv](https://arxiv.org/abs/2105.05287)  
 
-5. **B. S. Hu**, Q. Wu, Q. Yuan, Y. Z. Ma, X. Q. Yan and F. R. Xu 
-  <br/>_Nuclear multipole responses from chiral effective field theory interactions_  
-  Phys Rev C 101 (2020) 044309. arXiv:2002.10048 (2020). [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.101.044309) [arxiv](https://arxiv.org/abs/2002.10048)
+13- Y.-X. Luo, **K. Fossez**, Q. Liu, and J.-Y. Guo  
+  _Role of quadrupole deformation and continuum effects in the "island of inversion" nuclei $^{28,29,31}\text{F}$_  
+  Phys. Rev. C **104**, 014307 (2021) [article](https://doi.org/10.1103/PhysRevC.104.014307)  
 
-6. Y.Z. Ma, F.R. Xu, N. Michel, S. Zhang, J.G. Li, **B.S. Hu**, L. Coraggio, N. Itaco and A. Gargano
-  <br/>_Continuum and three-nucleon force in Borromean system: The $^{17}\text{Ne}$ case_  
-  Phys. Lett. B 808 (2020) 135673. arXiv:2008.01420v2 (2020). [article](https://doi.org/10.1016/j.physletb.2020.135673) [arxiv](https://arxiv.org/abs/2008.01420v2) 
+12- **K. Fossez**  
+  _Quantifying alpha clustering in light nuclei from binding energies_  
+  Submitted (2020) [arXiv](https://arxiv.org/abs/2004.14896) 
 
-7. Calvin W. Johnson, et al. 
-  <br/>_White paper: From bound states to the continuum_  
-  J. Phys. G: Nucl. Part. Phys. 47 (2020) 123001. arXiv:1912.00451 (2020). [article](https://iopscience.iop.org/article/10.1088/1361-6471/abb129) [arxiv](https://arxiv.org/abs/1912.00451)
- 
-8. Y. Jiang, et al. 
-  <br/>_Quadrupole deformation of $^{16}$C studied by proton and deuteron inelastic scattering_  
-  Phys Rev C 101 (2020) 024601. [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.101.024601) 
-  
-9. Y.Z. Ma, F.R. Xu, L. Coraggio, **B.S. Hu**, J.G. Li, T. Fukui, L. De Angelis, N. Itaco and A. Gargano 
-  <br/>_Chiral three-nucleon force and continuum for dripline nuclei and beyond_  
-  Phys. Lett. B 802 (2020) 135257. arXiv:2008.00430 (2020). [article](https://doi.org/10.1016/j.physletb.2020.135257)  [arxiv](https://arxiv.org/abs/2008.00430)
- 
-10. X. Y. Chen, Z. Zhou, W. G. Jiang, **B. S. Hu** and F. R. Xu 
-  <br/>_p-shell hypernuclear energy spectra using the Gogny-interaction shell model_  
-  J. Phys. G: Nucl. Part. Phys. 46 (2019) 125106. arXiv:1810.08806 (2019). [article](https://doi.org/10.1088/1361-6471/ab4d94) [arxiv](https://arxiv.org/abs/1810.08806) 
-  
-11. Q. Wu, F. R. Xu, **B. S. Hu** and J. G. Li 
-  <br/>_Perturbation calculations of nucleon–nucleon effective interactions in the Hartree–Fock basis_  
-  J. Phys. G: Nucl. Part. Phys. 46 (2019) 055104. arXiv:1806.09165 (2019). [article](https://doi.org/10.1088/1361-6471/ab0ef1) [arxiv](https://arxiv.org/abs/1806.09165) 
- 
- 12. J. G. Li, N. Michel, **B. S. Hu**, W. Zuo and F. R. Xu 
-  <br/>_Ab initio no-core Gamow shell-model calculations of multineutron systems_  
-  Phys Rev C 100 (2019) 054313. arXiv:1911.06485 (2019). [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.100.054313)  [arxiv](https://arxiv.org/abs/1911.06485)
-  
-13. **B. S. Hu**, Q. Wu, Z. H. Sun and F. R. Xu 
-  <br/>_Ab initio Gamow in-medium similarity renormalization group with resonance and continuum_  
-  Phys Rev C 99 (2019) 061302(R). arXiv:1906.10539 (2019). [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.061302) [arxiv](https://arxiv.org/abs/1906.10539)
+11- C. W. Johnson, K. D. Launey, N. Auerbach, S. Bacca, B. R. Barrett, C. Brune, M. A. Caprio, P. Descouvemont, W. H. Dickhoff, C. Elster, P. J. Fasano, **K. Fossez**, H. Hergert, M. Hjorth-Jensen, L. Hlophe, B. Hu, R. M. Id Betan, A. Idini, S. K&ouml;nig, K. Kravvaris, D. Lee, J. Lei, P. Maris, A. Mercenne, K. Minomo, R. Navarro Perez, W. Nazarewicz, F. M. Nunes, M. P&#322;oszajczak, S. Quaglioni, J. Rotureau, G. Rupak, A. M. Shirokov, I. Thompson, J. P. Vary, A. Volya, F. Xu, V. Zelevinsky, and X. Zhang  
+  _White paper: From bound states to the continuum_  
+  J. Phys. G **47**, 123001 (2020) [article](https://doi.org/10.1088/1361-6471/abb129) [arXiv](https://arxiv.org/abs/1912.00451)
 
-14. Q. Wu, **B. S. Hu**, F. R. Xu, Y. Z. Ma, S. J. Dai, Z. H. Sun and G. R. Jansen
- <br/> _Chiral NNLO$\_{sat}$ descriptions of nuclear multipole resonances within the random-phase approximation_  
-  Phys. Rev. C 97 (2018) 054306. arXiv:1801.04454 (2018). [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.97.054306) [arxiv](https://arxiv.org/abs/1801.04454)
+10- **K. Fossez**, J. Rotureau, W. Nazarewicz, N. Michel, and M. P&#322;oszajczak  
+  _Effective description of ${ {}^{5-10}\mathrm{He} }$ and the search for a narrow ${ {}^{4}\text{n} }$ resonance_  
+  Recent Progress in Few-Body Physics, **361** (2020). _Proceedings of the 22nd International Conference on Few-Body Problems in Physics_ [article](https://doi.org/10.1007/978-3-030-32357-8_61) 
 
-15. **B. S. Hu**, T. Li and F. R. Xu 
-  <br/>_Ab initio Rayleigh-Schrödinger perturbation calculation including three-body force_ 
-  <br/>arXiv:1810.08804 (2018). [arxiv](https://arxiv.org/abs/1810.08804v1)  
- 
-16. W. G. Jiang, **B. S. Hu**, Z. H. Sun, and F. R. Xu 
-  <br/>_Gogny-force-derived effective shell-model Hamiltonian_  
-  Phys Rev C 98 (2018) 044320. arXiv:1809.01292 (2018). [article](https://doi.org/10.1103/PhysRevC.98.044320) [arxiv](https://arxiv.org/abs/1809.01292)
-  
-17. Si-Jie Dai, Fu-Rong Xu, Jian-Guo Li, **Bai-Shan Hu** and Zhong-Hao Sun 
-  <br/>_Continuum effect in resonance spectra of neutron-rich oxygen isotopes_  
-  Chinese Physics C 42 (2018) 114106. [article](https://iopscience.iop.org/article/10.1088/1674-1137/42/11/114106)  
- 
-18. **B. S. Hu**, F. R. Xu, Q. Wu, Y. Z. Ma and Z. H. Sun 
-  <br/>_Brueckner-Hartree-Fock calculations for finite nuclei with renormalized realistic forces_  
-  Phys Rev C 95 (2017) 034321. arXiv:1609.02675 (2017). [article](https://doi.org/10.1103/PhysRevC.95.034321) [arxiv](https://arxiv.org/abs/1609.02675)
-  
-19. **B. S. Hu**, Q. Wu and F. R. Xu
-  <br/>_Ab initio many-body perturbation theory and no-core shell model_  
-  Chinese Physics C 41 (2017) 104101. [article](http://dx.doi.org/10.1088/1674-1137/41/10/104101) 
- 
-20. Z. H. Sun, Q. Wu, Z. H. Zhao, **B. S. Hu**, S. J. Dai and F. R. Xu 
-  <br/>_Resonance and continuum Gamow shell model with realistic nuclear forces_  
-  Phys. Lett. B 769 (2017) 227–232. [article](http://dx.doi.org/10.1016/j.physletb.2017.03.054)   
+9- **K. Fossez**, J. Rotureau, and W. Nazarewicz  
+  _Energy spectrum of neutron-rich helium isotopes: complex made simple_  
+  Phys. Rev. C **98**, 061302(R) (2018) [article](https://doi.org/10.1103/PhysRevC.98.061302) [arXiv](https://arxiv.org/abs/1806.02936)
 
-21. WeiGuang Jiang, **BaiShan Hu**, FuRong Xu, Rui Han, and Hui Hua 
-  <br/>_$\beta$-decay studies approaching the N=20 island of inversion with a new shell-model Hamiltonian_  
-  SCIENCE CHINA: Physics, Mechanics & Astronomy 60 (2017) 082011. [article](https://doi.org/10.1007/s11433-017-9032-6) 
+8- M. D. Jones, **K. Fossez**, T. Baumann, P. A. DeYoung, J. E. Finck, N. Frank, A. N. Kuchera, N. Michel, W. Nazarewicz, J. Rotureau, J. K. Smith, S. L. Stephenson, K. Stiefel, M. Thoennessen, and R. G. T. Zegers  
+  _Search for excited states in ${ {}^{25}\mathrm{O} }$_  
+  Phys. Rev. C **96**, 054322 (2017) [article](https://doi.org/10.1103/PhysRevC.96.054322) [arXiv](https://arxiv.org/abs/1710.04706)
 
-22. **B. S. Hu**, F. R. Xu, Z. H. Sun, J. P. Vary and T. Li 
-  <br/>_Ab initio nuclear many-body perturbation calculations in the Hartree-Fock basis_  
-  Phys Rev C 94 (2016) 014303. arXiv:1604.07146 (2016). [article](http://dx.doi.org/10.1103/PhysRevC.94.014303) [arxiv](https://arxiv.org/abs/1604.07146)
+7- **K. Fossez**, J. Rotureau, N. Michel, and W. Nazarewicz  
+  _Continuum effects in neutron-drip-line oxygen isotopes_  
+  Phys. Rev. C **96**, 024308 (2017) [article](https://doi.org/10.1103/PhysRevC.96.024308) [arXiv](https://arxiv.org/abs/1704.03785)
 
-23. X. J. Bao, H. F. Zhang, **B. S. Hu**, G. Royer and J. Q. Li
-  <br/>_Half-lives of cluster radioactivity with a generalized liquid-drop model_  
-  J. Phys. G: Nucl. Part. Phys. 39 (2012) 095103 (12pp). [article](http://dx.doi.org/10.1088/0954-3899/39/9/095103) 
- 
-24. F. R. Xu, Z. H. Sun, Q. Wu, **B. S. Hu** and S. J. Dai
-  <br/>_Realistic Gamow shell model for resonance and continuum in atomic nuclei_  
-  IOP Conf. Series: Journal of Physics: Conf. Series 966 (2018) 012042. [article](http://iopscience.iop.org/article/10.1088/1742-6596/966/1/012042) 
+6- **K. Fossez**, J. Rotureau, N. Michel, and M. P&#322;oszajczak  
+  _Can tetraneutron be a narrow resonance?_  
+  Phys. Rev. Lett. **119**, 032501 (2017) [article](https://doi.org/10.1103/PhysRevLett.119.032501) [arXiv](https://arxiv.org/abs/1612.01483)
+
+5- G. X. Dong, N. Michel, **K. Fossez**, M. P&#322;oszajczak, Y. Jaganathen, and R. M. Id Betan  
+  _Gamow shell model description of radiative capture reactions ${ {}^{6}\mathrm{Li} ( p , \gamma ) {}^{7}\mathrm{Be} }$ and ${ {}^{6}\mathrm{Li} ( n , \gamma ) {}^{7}\mathrm{Li} }$_  
+  J. Phys. G **44**, 045201 (2017) [article](https://doi.org/10.1088/1361-6471/aa5f24) [arXiv](https://arxiv.org/abs/1601.06660)
+
+4- **K. Fossez**, J. Rotureau, N. Michel, Quan Liu, and W. Nazarewicz  
+  _Single-particle and collective motion in unbound deformed ${ {}^{39}\mathrm{Mg} }$_  
+  Phys. Rev. C **94**, 054302 (2016) [article](https://doi.org/10.1103/PhysRevC.94.054302) [arXiv](https://arxiv.org/abs/1607.08436)
+
+3- **K. Fossez**, W. Nazarewicz, Y. Jaganathen, N. Michel, and M. P&#322;oszajczak  
+  _Nuclear rotation in the continuum_  
+  Phys. Rev. C **93**, 011305(R) (2016) [article](http://dx.doi.org/10.1103/PhysRevC.93.011305) [arXiv](https://arxiv.org/abs/1509.07841)
+
+2- G. X. Dong , **K. Fossez**, N. Michel, and M. P&#322;oszajczak  
+  _Astrophysical ${ S }$-factor for ${ {}^{6}\mathrm{Li} ( p , \gamma ) {}^{7}\mathrm{Be} }$ in the coupled-channel Gamow shell model_  
+  EPJ Web Conf. **109**, 05003 (2016) [article](https://doi.org/10.1051/epjconf/201610905003) [arXiv](https://arxiv.org/abs/1510.00786)
+
+1- **K. Fossez**, N. Michel, M. P&#322;oszajczak, Y. Jaganathen, and R. M. Id Betan  
+  _Description of the proton and neutron radiative capture reactions in the Gamow shell model_  
+  Phys. Rev. C **91**, 034609 (2015) [article](https://dx.doi.org/10.1103/PhysRevC.91.034609) [arXiv](https://arxiv.org/abs/1502.01631)
+
+
+
+## Atomic physics
+
+5- Xingze Mao, **K. Fossez** and W. Nazarewicz  
+  _Resonant spectra of multipole-bound anions_  
+  Phys. Rev. A **98**, 062515 (2018) [article](https://doi.org/10.1103/PhysRevA.98.062515) [arXiv](https://arxiv.org/abs/1810.02806)
+
+4- **K. Fossez**, Xingze Mao, W. Nazarewicz, N. Michel, W. R. Garrett, and M. P&#322;oszajczak  
+  _Resonant spectra of quadrupolar anions_  
+  Phys. Rev. A **94**, 032511 (2016) [article](http://dx.doi.org/10.1103/PhysRevA.94.032511) [arXiv](https://arxiv.org/abs/1606.04764)
+
+3- **K. Fossez**, N. Michel, W. Nazarewicz, M. P&#322;oszajczak, and Y. Jaganathen  
+  _Bound and resonance states of the dipolar anion of hydrogen cyanide: competition between threshold effects and rotation in an open quantum system_  
+  Phys. Rev. A **91**, 012503 (2015) [article](https://dx.doi.org/10.1103/PhysRevA.91.012503) [arXiv](https://arxiv.org/abs/1410.6660)
+
+2- **K. Fossez**, N. Michel, W. Nazarewicz, and M. P&#322;oszajczak  
+  _Bound states of dipolar molecules studied with the Berggren expansion method_  
+  Phys. Rev. A **87**, 042515 (2013) [article](https://dx.doi.org/10.1103/PhysRevA.87.042515) [arXiv](https://arxiv.org/abs/1303.1928)
+
+1- R. O. Barrachina, F. Fr&#233;mont, **K. Fossez**, D. Gruyer, V. Helaine, A.Lepailleur, A. Leredde, S. Maclot, G. Scamps, and J- .Y Chesnel  
+  _Linewidth oscillations in a nanometer-size double-slit interference experiment with single electrons_  
+  Phys. Rev. A **81**, 060702(R) (2010) [article](https://dx.doi.org/10.1103/PhysRevA.81.060702)
+
 
 
