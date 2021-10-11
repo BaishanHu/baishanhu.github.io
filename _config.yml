@@ -9,12 +9,12 @@
 locale                   : "en-US"
 title                    : "Personal page"
 title_separator          : "-"
-name                     : "Kevin Fossez"
-description              : "Nuclei as open quantum systems"
-url                      : "https://kevinfossez.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kevinfossez/kevinfossez.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+name                     : "Baishan Hu"
+description              : "Ab initio calculations of nuclear structure and reactions"
+url                      : "https://baishanhu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+repository               : "BaishanHu/BaishanHu.github.io"
+teaser                   : "Cartoon_Baishan.gif" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 logo                     : #"images/logo_eclipse_MSU.png"
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Fossez"
-  avatar           : "pict_linkedin.jpeg" #"logo_eclipse_MSU.png" #"profile.png" #must be put in images/
-  bio              : "FRIB Theory Fellow at Michigan State University and Argonne National Laboratory"
-  location         : "Chicago, USA"
+  name             : "Baishan Hu"
+  avatar           : "profile_Baishan.jpg" #"logo_eclipse_MSU.png" #"profile.png" #must be put in images/
+  bio              : "Postdoctoral Fellow at TRIUMF"
+  location         : "Vancouver, Canada"
   employer         :
-  pubmed           : 
-  arxiv            : "fossez_k_1.html"
-  googlescholar    : "https://scholar.google.com/citations?user=0dKGiPsAAAAJ&hl=en"
+  pubmed           :
+  arxiv            : "hu_b_3.html"
+  googlescholar    : "https://scholar.google.com/citations?user=h1UW7HwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -98,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kevinfossez"
+  github           : "baishanhu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "kévin-fossez-13789798" 
-  orcid            : "https://orcid.org/0000-0002-5823-4446"
+  linkedin         :
+  orcid            : "https://orcid.org/0000-0001-8071-158X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -302,5 +302,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-leap-day
