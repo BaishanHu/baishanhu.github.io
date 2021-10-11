@@ -6,62 +6,70 @@ author_profile: true
 redirect_from:
   - /resume
 header:
-  overlay_image: ../images/background.jpg
+  overlay_image: ../images/image_space-bubble-nebula-constellation.jpg
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 ---
 
 {% include base_path %}
 
 
-## Education
-- *2012-2017*: &nbsp; Ph.D. in Physics, School of Physics, Peking University, China
-- *2008-2012*: &nbsp; B.S. in Physics, School of Nuclear Science and Technology, Lanzhou University, China
-<!-- <font color=red> words </font> -->
+## Professional background
 
-----
+- 2014 Ph.D., University of Caen, France, with Prof. Marek P&#322;oszajczak
+- 2015-17 Research Associate, Michigan State University, USA, with Prof. Witek Nazarewicz
+- 2017-19 Research Associate, Michigan State University, USA, with Prof. Heiko Hergert
+- 2019- FRIB Theory Fellow (Assistant Professor), Michigan State University and Argonne National Laboratory, USA
 
-## Professional experience
-- *2019-present*: &nbsp; Postdoctoral Fellow at TRIUMF, Canada
-- *2017-2019*:     &nbsp; &nbsp; &nbsp; Postdoctoral Research Associate, Peking University, China
-
-----
 
 ## Research interests
-* ***Ab initio* nuclear theory for open quantum systems**
-  * weakly bound and unbound nuclei 
-   <br/> (Resonance and continuum, drip lines and beyond, halos, exotic decay modes, shell evolution, etc.)
-  * Nuclear reactions 
-   <br/> (proton or neutron scattering, proton or neutron radiative capture reactions)
-   
-* **Combination of *ab initio* nuclear physics and**
-  * Dark matter, Neutrinoless double-beta decay
-  * Nuclear astrophysics
-  * Neutrino physics
-  * Quantum computing
 
----
+### Open quantum systems
 
-## Awards
-- First talk award, Chinese national nuclear structure conference, 2016
-- First award for oral presentation, Physics forum of Chinese five top universities, 2015
+- Nuclear physics: weakly bound and unbound nuclei
+- Atomic physics: dipolar and quadrupolar anions
 
----
+### Quantum many-body physics
 
-## Grants
-- National Natural Science Foundation of China (PI), 2018-2019, No.1184700423 (180,000 CNY)
-- China Postdoctoral Science Foundation (PI), 2018-2019, No.2018M630018 (80,000 CNY)
-- Chun Tsung Endowment by T.D. Lee, 2010-2011
+- Emergent phenomena, interplay with continuum couplings (halos, exotic decay modes, many-body resonances, rotational motion in the continuum, etc.)
+- Effective scales, new degrees of freedom
 
----
+### Nuclear structure and reactions
+
+- Spectroscopy of atomic nuclei, rotational bands, clustering
+- Proton and neutron radiative capture reactions of astrophysical interest
+
+### Quantum computing
+(in development)
+
+
+## Framework
+
+### Formalism
+
+- Non-Hermitian quantum mechanics
+- Berggren basis
+- Resonating group method, coupled channel formalism
+- Effective field theory for the nuclear shell model (in development)
+
+### Many-body methods
+
+- Particle-plus-rotor in the Berggren basis
+- Gamow shell model (GSM)
+- Density matrix renormalization group (DMRG) for open quantum systems
+- In-medium similarity renormalization group (IM-SRG) for open quantum systems (in development)
+
+### Computing skills
+
+- Scientific computing: C++, OpenMP, MPI, hybrid parallel computing
+- Python, matplotlib
+- LaTeX, Tikz
+
 
 ## Refereeing
+
+- European Physical Journal A: Hadrons and Nuclei
+- Physica Scripta (Outstanding reviewer 2019)
 - Physical Review C
-- International Journal of Modern Physics E
-- Canadian Journal of Physics
-- Physics Open
+- Frontiers in Physics
+- Nature Physics
 
----
-
-## Skills
-- OS: Linux, MacOS, Windows
-- Programming: C/C++, Fortran, Python, Matlab, Matplotlib, MPI, OpenMP
