@@ -78,3 +78,48 @@ ax1.annotate(r"$2^+$", xy=(17.0,4.0), color='black', ha="left", va="center", fon
 fig.savefig('plot.pdf', bbox_inches='tight', transparent=True)
 ```
 
+## Numpy
+```python
+np.set_printoptions(precision=5)
+np.set_printoptions(suppress=True)
+```
+
+## Pandas
+```python
+inplace=True changes the original dataframe and returns None. inplace=False returns a copy of the object with the operation performed.
+
+df.reset_index(inplace=True)
+
+df.sort_values(by='XXX', ascending=True,  ignore_index=True); df.sort_values(by=['XXX','xxx'], ascending=[True,False],  ignore_index=True)
+
+df = df.merge(df_a)
+
+handles, labels = ax.get_legend_handles_labels()
+leg=ax.legend(handles[:],labels[:],fontsize=14,ncol=2,loc='upper left',frameon=True,shadow=True)
+
+ax1.set_ylabel('XXX',x=0,y=-0.1)
+
+transform=ax.transAxes
+```
+
+## Tips
+```python
+h, l = ax1.get_legend_handles_labels()
+leg1=ax1.legend([ h[0],h[1] ],[ l[0],l[1] ], fontsize=14, ncol=1, bbox_to_anchor=(0.4,0.95), \
+loc='best',frameon=False,shadow=False,markerscale=1.0, labelspacing=0.5,columnspacing=0.2,handletextpad=0.3)
+
+def formatnum0(x, pos):
+    return '$%.1f$' % (x*1e40)
+formatter0 = FuncFormatter(formatnum0)
+ax1.yaxis.set_major_formatter(formatter0)
+
+ax1.set_yticks([1e-40,1e-39,1e-38,1e-37])
+ax1.set_yticklabels(['1','10','10$^2$','10$^3$'])
+
+ax1.fill_between(Xs,Ys_max,Ys_min,alpha=0.5, hatch='/////',facecolor='C9',edgecolor='C0',label='XXX')
+Note: if use color='C2', facecolor and edgecolor will not work
+
+ax1.errorbar(np.array([X]),np.array([Y]),yerr=[np.array([dY1]),np.array([dY2])], \
+linewidth=0,fmt='s',markersize=6,capsize=4,capthick=1,elinewidth=1,color='b')
+```
+
