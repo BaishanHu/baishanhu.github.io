@@ -19,7 +19,7 @@ header:
 
 - ### *Ab initio* structure factors for spin-dependent dark matter direct detection  
 <img style="float: right;margin-bottom: 20px;margin-left: 10px" src="../images/fig_SDDM_Xe129.jpg" width="380">
-**B. S. Hu**, J. Padua-Argüelles, S. Leutheusser, T. Miyagi, S. R. Stroberg and J. D. Holt, submitted. arXiv:2109.00193v1 (2021). [arxiv](https://arxiv.org/abs/2109.00193)      
+**B. S. Hu**, J. Padua-Argüelles, S. Leutheusser, T. Miyagi, S. R. Stroberg and J. D. Holt, Phys. Rev. Lett 128 (2022) 072502. arXiv:2109.00193v1 (2021). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.072502) [arxiv](https://arxiv.org/abs/2109.00193)      
 &nbsp;   
 We present first converged *ab initio* calculations of structure factors for elastic spin-dependent WIMP scattering off all nuclei used in dark matter direct-detection searches: $^{19}$F, $^{23}$Na, $^{27}$Al, $^{29}$Si, $^{73}$Ge, $^{127}$I, and $^{129,131}$Xe. From a set of established chiral NN+3N interactions, 1.8/2.0(EM), N$^4$LO+3Nlnl and $\Delta$NNLO$_{\text{GO}}$, we construct consistent WIMP-nucleon currents at the one-body level, including effects from axial-vector two-body currents. We then apply the IMSRG to construct effective valence-space Hamiltonians and consistently transformed operators of nuclear responses.  Combining the recent advances of natural orbitals with three-nucleon forces expressed in large spaces, we obtain basis-space converged structure factors even in heavy nuclei. We find our results of structure factor are consistent with phenomenological calculations, but in certain cases can differ by as much as $80-90\%$ at low momentum transfer.
 <img style="float: center;margin-left: 0px" src="../images/fig_SDDM.jpg" width="800">
