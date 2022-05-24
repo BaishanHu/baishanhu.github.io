@@ -121,5 +121,7 @@ Note: if use color='C2', facecolor and edgecolor will not work
 
 ax1.errorbar(np.array([X]),np.array([Y]),yerr=[np.array([dY1]),np.array([dY2])], \
 linewidth=0,fmt='s',markersize=6,capsize=4,capthick=1,elinewidth=1,color='b')
+
+df.reset_index(drop=True, inplace=True) # inplace = True: no new and change the original df
 ```
 
