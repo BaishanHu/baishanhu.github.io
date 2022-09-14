@@ -20,13 +20,25 @@ header:
 
 You can also find my articles on [INSPIRE](https://inspirehep.net/authors/1763531)
 
-27. **Baishan Hu**, Weiguang Jiang, Takayuki Miyagi, Zhonghao Sun, Andreas Ekström, Christian Forssén, Gaute Hagen, Jason D. Holt, Thomas Papenbrock, S. Ragnar Stroberg and Ian Vernon
+30. **Baishan Hu**, Weiguang Jiang, Takayuki Miyagi, Zhonghao Sun, Andreas Ekström, Christian Forssén, Gaute Hagen, Jason D. Holt, Thomas Papenbrock, S. Ragnar Stroberg and Ian Vernon
   <br/>_Ab initio predictions link the neutron skin of 208Pb to nuclear forces_  
-  arXiv:2112.01125v1 (2021). [arxiv](https://arxiv.org/abs/2112.01125v1)
+  Nature Physics. arXiv:2112.01125v1 (2021). [article](https://www.nature.com/articles/s41567-022-01715-8) [arxiv](https://arxiv.org/abs/2112.01125v1)
   
-26. **B. S. Hu**, J. Padua-Argüelles, S. Leutheusser, T. Miyagi, S. R. Stroberg and J. D. Holt
+29. **B. S. Hu**, J. Padua-Argüelles, S. Leutheusser, T. Miyagi, S. R. Stroberg and J. D. Holt
   <br/>_Ab initio structure factors for spin-dependent dark matter direct detection_  
-  Phys. Rev. Lett 128 (2022) 072502. arXiv:2109.00193v1 (2021). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.072502) [arxiv](https://arxiv.org/abs/2109.00193) 
+  Phys. Rev. Lett 128 (2022) 072502. arXiv:2109.00193v1 (2021). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.072502) [arxiv](https://arxiv.org/abs/2109.00193)
+
+28. Y. F. Geng, J. G. Li, Y. Z. Ma, **B. S. Hu**, Q. Wu, Z. H. Sun, S. Zhang, and F. R. Xu
+  <br/>_Excitation spectra of the heaviest carbon isotopes investigated within the CD-Bonn Gamow shell model_  
+  Phys. Rev. C 106 (2022) 024304. [article](https://doi.org/10.1103/PhysRevC.106.024304) 
+
+27. S.W. Bai, Á. Koszorús, **B.S. Hu**, X.F. Yang, et al.
+  <br/>_Electromagnetic moments of scandium isotopes and N = 28 isotones in the distinctive 0f7/3 orbit_  
+  Phys. Lett. B 829 (2022) 137064. arXiv:2203.09111 (2022). [article](https://doi.org/10.1016/j.physletb.2022.137064) [arxiv](https://arxiv.org/abs/2203.09111v2) 
+  
+26. Q. Yuan, S. Q. Fan, **B. S. Hu**, J. G. Li, S. Zhang, S. M. Wang, Z. H. Sun, Y. Z. Ma, and F. R. Xu
+  <br/>_Deformed in-medium similarity renormalization group_  
+  Phys. Rev. C 105 (2022) L061303. arXiv:2204.07301 (2022). [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.L061303) [arxiv](https://arxiv.org/abs/2204.07301) 
 
 25. S. Zhang, Y. Z. Ma, J. G. Li, **B. S. Hu**, Q. Yuan, Z. H. Cheng and F. R. Xu
   <br/>_The roles of three-nucleon force and continuum coupling in mirror symmetry breaking of oxygen mass region_  
