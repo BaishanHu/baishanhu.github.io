@@ -20,12 +20,12 @@ header:
 
 You can also find my articles on [INSPIRE](https://inspirehep.net/authors/1763531)
 31. S. Kaur, R. Kanungo, W. Horiuchi, G. Hagen, J. D. Holt, **B. S. Hu**, T. Miyagi, et al.
-  <br/>_Proton distribution radii of $^{16-24}$O: signatures of new shell closures and neutron skin_
-  Accepted by Phys. Rev. Lett. (2022). arXiv:2209.00722. [arxiv](https://arxiv.org/abs/2209.00722)
+  <br/>_Proton distribution radii of $^{16-24}$O: signatures of new shell closures and neutron skin_  
+  Accepted by Phys. Rev. Lett. (2022). arXiv:2209.00722 (2022). [arxiv](https://arxiv.org/abs/2209.00722)
 
 30. **Baishan Hu**, Weiguang Jiang, Takayuki Miyagi, Zhonghao Sun, Andreas Ekström, Christian Forssén, Gaute Hagen, Jason D. Holt, Thomas Papenbrock, S. Ragnar Stroberg and Ian Vernon
   <br/>_Ab initio predictions link the neutron skin of 208Pb to nuclear forces_  
-  Nature Physics. arXiv:2112.01125v1 (2022). [article](https://www.nature.com/articles/s41567-022-01715-8) [arxiv](https://arxiv.org/abs/2112.01125v1)
+  Nature Physics (2022). arXiv:2112.01125v1 (2021). [article](https://www.nature.com/articles/s41567-022-01715-8) [arxiv](https://arxiv.org/abs/2112.01125v1)
   
 29. **B. S. Hu**, J. Padua-Argüelles, S. Leutheusser, T. Miyagi, S. R. Stroberg and J. D. Holt
   <br/>_Ab initio structure factors for spin-dependent dark matter direct detection_  

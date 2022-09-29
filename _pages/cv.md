@@ -55,10 +55,12 @@ header:
 ---
 
 ## Refereeing
+- Physical Review Letters
 - Physical Review C
 - International Journal of Modern Physics E
 - Canadian Journal of Physics
 - Physics Open
+- Physics
 
 ---
 
