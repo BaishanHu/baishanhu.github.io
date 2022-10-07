@@ -15,6 +15,18 @@ header:
 
 # Selected Works
 
+## Ab Initio Nuclear Calculation
+
+- ### *Ab initio* predictions link the neutron skin of $^{208}$Pb to nuclear forces  
+<img style="float: right;margin-bottom: 20px;margin-left: 10px" src="../images/fig_AbInitio_trend.jpg" width="380">
+**Baishan Hu**, Weiguang Jiang, Takayuki Miyagi, Zhonghao Sun, Andreas Ekström, Christian Forssén, Gaute Hagen, Jason D. Holt, Thomas Papenbrock, S. Ragnar Stroberg and Ian Vernon  
+Nature Physics 18 (2022) 1196-1200. arXiv:2112.01125v1 (2021). [article](https://doi.org/10.1038/s41567-022-01715-8) [arxiv](https://arxiv.org/abs/2112.01125v1)  
+&nbsp;  
+Heavy atomic nuclei have an excess of neutrons over protons, which leads to the formation of a neutron skin whose thickness is sensitive to details of the nuclear force. This links atomic nuclei to properties of neutron stars, thereby relating objects that differ in size by orders of magnitude. The nucleus $^{208}$Pb is of particular interest because it exhibits a simple structure and is experimentally accessible. However, computing such a heavy nucleus has been out of reach for ab initio theory. By combining advances in quantum many-body methods, statistical tools and emulator technology, we make quantitative predictions for the properties of $^{208}$Pb starting from nuclear forces that are consistent with symmetries of low-energy quantum chromodynamics. We explore 10$^9$ different nuclear force parameterizations via history matching, confront them with data in select light nuclei and arrive at an importance-weighted ensemble of interactions. We accurately reproduce bulk properties of $^{208}$Pb and determine the neutron skin thickness, which is smaller and more precise than a recent extraction from parity-violating electron scattering but in agreement with other experimental probes. This work demonstrates how realistic two- and three-nucleon forces act in a heavy nucleus and allows us to make quantitative predictions across the nuclear landscape.
+<img style="float: center;margin-left: 0px" src="../images/fig_Pb208_NM.jpg" width="800">
+
+<hr style="width:100%;margin:10px">
+
 ##  Beyond the Standard Model
 
 - ### *Ab initio* structure factors for spin-dependent dark matter direct detection  
@@ -47,4 +59,3 @@ We have developed a novel *ab initio* Gamow in-medium similarity renormalization
 J. G. Li, N. Michel, **B. S. Hu**, W. Zuo and F. R. Xu, Phys Rev C 100 (2019) 054313. arXiv:1911.06485 (2019). [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.100.054313)  [arxiv](https://arxiv.org/abs/1911.06485)      
 &nbsp;   
 The existence of multi-neutron systems has always been a debatable question. Indeed, both internucleon correlations and a large continuum coupling occur in these states. We then employ the *ab initio* no-core Gamow shell model to calculate the resonant energies and widths of the trineutron and tetraneutron systems with realistic interactions. Our results indicate that trineutron and tetraneutron are both unbound and bear broad widths. The calculated energy and width of tetraneutron are also comparable with recent experimental data. Moreover, our calculations suggest that the energy of trineutron is lower than that of tetraneutron, while its resonance width is also narrower. This strongly suggests that trineutron is more likely to be experimentally observed than tetraneutron. We thus suggest experimentalists to search for trineutron at low energy.
-
