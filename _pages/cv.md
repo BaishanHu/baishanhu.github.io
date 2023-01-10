@@ -21,7 +21,8 @@ header:
 ----
 
 ## Professional experience
-- *2019-present*: &nbsp; Postdoctoral Fellow at TRIUMF, Canada
+- *2022-present*: &nbsp; Postdoctoral Research Associate at ORNL, US
+- *2019-2022*: &nbsp; Postdoctoral Fellow at TRIUMF, Canada
 - *2017-2019*:     &nbsp; &nbsp; &nbsp; Postdoctoral Research Associate, Peking University, China
 
 ----

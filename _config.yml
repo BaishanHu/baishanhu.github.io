@@ -83,13 +83,13 @@ analytics:
 author:
   name             : "Baishan Hu"
   avatar           : "profile_Baishan.jpg" #"logo_eclipse_MSU.png" #"profile.png" #must be put in images/
-  bio              : "Postdoctoral Fellow at TRIUMF"
-  location         : "Vancouver, Canada"
+  bio              : "Postdoc at ORNL"
+  location         : "Oak Ridge, US"
   employer         :
   pubmed           :
   arxiv            : "hu_b_3.html"
   googlescholar    : "https://scholar.google.com/citations?user=h1UW7HwAAAAJ&hl=en"
-  email            : "bhu@triumf.ca"
+  email            : "baishanhu4phys@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

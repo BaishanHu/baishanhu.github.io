@@ -14,7 +14,7 @@ header:
 
 ## Bio
 
-I am a postdoctoral fellow at TRIUMF. My research is focused on *ab initio* calculations of nuclear structure. Starting from two- (NN) and three-nucleon (3N) forces, derived within chiral effective field theory, and consistent electroweak currents, I mainly use in-medium similarity renormalization group (IMSRG) and many-body perturbation theory (MBPT) to solve the many-body Schrödinger equation.
+I am a postdoctoral research associate at Oak Ridge National Laboratory (ORNL). My research is focused on *ab initio* calculations of nuclear structure. Starting from two- (NN) and three-nucleon (3N) forces, derived within chiral effective field theory, and consistent electroweak currents, I mainly use in-medium similarity renormalization group (IMSRG), many-body perturbation theory (MBPT) and coupled cluster (CC) to solve the many-body Schrödinger equation.
 
 
 ## Interests
