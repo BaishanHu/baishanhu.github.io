@@ -20,6 +20,11 @@ header:
 
 ## You can also find my articles on [GoogleScholar](https://scholar.google.com/citations?user=h1UW7HwAAAAJ&hl=en) or [INSPIRE](https://inspirehep.net/authors/1763531) or [ORCID](https://orcid.org/0000-0001-8071-158X)
 
+32. L. Nies, D. Atanasov, M. Athanasakis-Kaklamanakis, M. Au, K. Blaum, J. Dobaczewski, **B. S. Hu**, J. D. Holt, et al.
+  <br/>_Isomeric excitation energy for $^{99}$In$^{m}$ from mass spectrometry reveals constant trend next to doubly magic 
+$^{100}$Sn_
+  accepted by Phys. Rev. Lett. (2023).
+  
 31. S. Kaur, R. Kanungo, W. Horiuchi, G. Hagen, J. D. Holt, **B. S. Hu**, T. Miyagi, et al.
   <br/>_Proton distribution radii of $^{16-24}$O: signatures of new shell closures and neutron skin_  
   Phys. Rev. Lett. 129 (2022) 142502. arXiv:2209.00722 (2022). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.142502) [arxiv](https://arxiv.org/abs/2209.00722)
