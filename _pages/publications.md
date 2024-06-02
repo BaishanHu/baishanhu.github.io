@@ -20,17 +20,25 @@ header:
 
 ## You can also find my articles on [GoogleScholar](https://scholar.google.com/citations?user=h1UW7HwAAAAJ&hl=en) or [INSPIRE](https://inspirehep.net/authors/1763531) or [ORCID](https://orcid.org/0000-0001-8071-158X)
 
-37. K. König, J. C. Berengut, A. orschevsky, ... , **B. S. Hu**, et al.
-  <br/>_Nuclear Charge Radii of Silicon Isotopes_
-  Phys. Rev. Lett. 132, 162502 (2024). arXiv:2309.02037 (2023). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.162502) arxiv](https://arxiv.org/abs/2309.02037)
+39. B. Acharya, **B. S. Hu**, S. Bacca, G. Hagen, P. Navrátil, and T. Papenbrock.
+  <br/>_Magnetic dipole transition in $^{48}$Ca”_
+  Accepted by Phys. Rev. Lett. (2024). arXiv:2311.11438 (2023). [arxiv](https://arxiv.org/abs/2311.11438)
 
-36. J. G. Li, **B. S. Hu**, S. Zhang, F. R. Xu.
+38. K. König, J. C. Berengut, A. orschevsky, ... , **B. S. Hu**, et al.
+  <br/>_Nuclear Charge Radii of Silicon Isotopes_
+  Phys. Rev. Lett. 132, 162502 (2024). arXiv:2309.02037 (2023). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.162502) [arxiv](https://arxiv.org/abs/2309.02037)
+
+37. J. G. Li, **B. S. Hu**, S. Zhang, F. R. Xu.
   <br/>_Unbound $^{28}$O, the heaviest oxygen isotope observed: a cutting-edge probe for testing nuclear models_
   Nuclear Science and Techniques 35, 21 (2024). [article](https://link.springer.com/article/10.1007/s41365-024-01373-w)
 
-35. B. D. Linh, A.Corsi, A. Gillibert, A. Obertelli, P. Doornenbal, C. Barbieri, T. Duguet, M. Gómez-Ramos, J. D. Holt, **B.S. Hu**, et al.
+36. B. D. Linh, A.Corsi, A. Gillibert, A. Obertelli, P. Doornenbal, C. Barbieri, T. Duguet, M. Gómez-Ramos, J. D. Holt, **B.S. Hu**, et al.
   <br/>_Onset of collectivity for argon isotopes close to N = 32_  
   Phys. Rev. C 109, 034312 (2024). [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.034312)
+  
+35. J. Heery, J. Henderson, C. R. Hoffman, ..., **B.S. Hu**, et al.
+  <br/>_Suppressed electric quadrupole collectivity in $^{32}$Si_  
+  Phys. Rev. C 109, 014327 (2024). [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.014327)
 
 34. Z. H. Yang, Y. L. Ye, B. Zhou, H. Baba, R. J. Chen, Y. C. Ge, **B. S. Hu**, J. D. Holt, et al.
   <br/>_Observation of the Exotic 0$^{+}_2$ Cluster State in $^{8}$He_
