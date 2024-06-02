@@ -21,15 +21,15 @@ header:
 ## You can also find my articles on [GoogleScholar](https://scholar.google.com/citations?user=h1UW7HwAAAAJ&hl=en) or [INSPIRE](https://inspirehep.net/authors/1763531) or [ORCID](https://orcid.org/0000-0001-8071-158X)
 
 39. B. Acharya, **B. S. Hu**, S. Bacca, G. Hagen, P. Navrátil, and T. Papenbrock.
-  <br/>_Magnetic dipole transition in $^{48}$Ca_
+  <br/>_Magnetic dipole transition in $^{48}$Ca_  
   Accepted by Phys. Rev. Lett. (2024). arXiv:2311.11438 (2023). [arxiv](https://arxiv.org/abs/2311.11438)
 
 38. K. König, J. C. Berengut, A. orschevsky, ... , **B. S. Hu**, et al.
-  <br/>_Nuclear Charge Radii of Silicon Isotopes_
+  <br/>_Nuclear Charge Radii of Silicon Isotopes_  
   Phys. Rev. Lett. 132, 162502 (2024). arXiv:2309.02037 (2023). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.162502) [arxiv](https://arxiv.org/abs/2309.02037)
 
 37. J. G. Li, **B. S. Hu**, S. Zhang, F. R. Xu.
-  <br/>_Unbound $^{28}$O, the heaviest oxygen isotope observed: a cutting-edge probe for testing nuclear models_
+  <br/>_Unbound $^{28}$O, the heaviest oxygen isotope observed: a cutting-edge probe for testing nuclear models_  
   Nuclear Science and Techniques 35, 21 (2024). [article](https://link.springer.com/article/10.1007/s41365-024-01373-w)
 
 36. B. D. Linh, A.Corsi, A. Gillibert, A. Obertelli, P. Doornenbal, C. Barbieri, T. Duguet, M. Gómez-Ramos, J. D. Holt, **B.S. Hu**, et al.
@@ -41,12 +41,12 @@ header:
   Phys. Rev. C 109, 014327 (2024). [article](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.014327)
 
 34. Z. H. Yang, Y. L. Ye, B. Zhou, H. Baba, R. J. Chen, Y. C. Ge, **B. S. Hu**, J. D. Holt, et al.
-  <br/>_Observation of the Exotic 0$^{+}_2$ Cluster State in $^{8}$He_
+  <br/>_Observation of the Exotic 0$^{+}_2$ Cluster State in $^{8}$He_  
   Phys. Rev. Lett. 131, 242501 (2023). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.242501)
 
 33. L. Nies, D. Atanasov, M. Athanasakis-Kaklamanakis, M. Au, K. Blaum, J. Dobaczewski, **B. S. Hu**, J. D. Holt, et al.
   <br/>_Isomeric excitation energy for $^{99}$In$^{m}$ from mass spectrometry reveals constant trend next to doubly magic 
-$^{100}$Sn_
+$^{100}$Sn_  
   Phys. Rev. Lett. 131, 022502 (2023). arXiv:2306.02033 (2023). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.022502) [arxiv](https://arxiv.org/abs/2306.02033)
 
 32. S. Zhang, F. R. Xu, J. G. Li, **B.S. Hu**, et al.
