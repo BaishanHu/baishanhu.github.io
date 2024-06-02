@@ -21,7 +21,7 @@ header:
 ## You can also find my articles on [GoogleScholar](https://scholar.google.com/citations?user=h1UW7HwAAAAJ&hl=en) or [INSPIRE](https://inspirehep.net/authors/1763531) or [ORCID](https://orcid.org/0000-0001-8071-158X)
 
 39. B. Acharya, **B. S. Hu**, S. Bacca, G. Hagen, P. Navrátil, and T. Papenbrock.
-  <br/>_Magnetic dipole transition in $^{48}$Ca”_
+  <br/>_Magnetic dipole transition in $^{48}$Ca_
   Accepted by Phys. Rev. Lett. (2024). arXiv:2311.11438 (2023). [arxiv](https://arxiv.org/abs/2311.11438)
 
 38. K. König, J. C. Berengut, A. orschevsky, ... , **B. S. Hu**, et al.
