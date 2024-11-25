@@ -14,7 +14,7 @@ header:
 
 ## Bio
 
-I am a postdoctoral research associate at Oak Ridge National Laboratory (ORNL). My research is focused on *ab initio* calculations of nuclear structure. Starting from two- (NN) and three-nucleon (3N) forces, derived within chiral effective field theory, and consistent electroweak currents, I mainly use in-medium similarity renormalization group (IMSRG), many-body perturbation theory (MBPT) and coupled cluster (CC) to solve the many-body Schrödinger equation.
+I am a Research Assistant Professor at Texas A&M University. My research is focused on *ab initio* calculations of nuclei. Starting from two- (NN) and three-nucleon (3N) forces derived within the chiral effective field theory, along with consistent electroweak currents, I primarily use in-medium similarity renormalization group (IMSRG), coupled cluster (CC) and many-body perturbation theory (MBPT) to solve the many-body Schrödinger equation.
 
 
 ## Interests
@@ -22,6 +22,8 @@ I am a postdoctoral research associate at Oak Ridge National Laboratory (ORNL). 
 My research interests cover *ab initio* calculations of nuclear structure and reactions,
 as well as related topics such as dark matter, neutrino physics, fundamental
 symmetries and nuclear astrophysics.
+
+My work aims to extend the reach of *ab initio* studies in two directions: 1. pushing *ab initio* calculation into heavier mass regions, and 2. obtaining first-principles predictions (with quantified uncertainties) of quantities that cannot be evaluated experimentally, even they reside in the heavy-mass region. These quantities are relevant to astrophysics and searches for physics beyond the Standard Model.
 
 ![Research interests](../images/my_works.png)
 

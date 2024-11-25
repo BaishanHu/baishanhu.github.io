@@ -20,9 +20,37 @@ header:
 
 ## You can also find my articles on [GoogleScholar](https://scholar.google.com/citations?user=h1UW7HwAAAAJ&hl=en) or [INSPIRE](https://inspirehep.net/authors/1763531) or [ORCID](https://orcid.org/0000-0001-8071-158X)
 
+46. B. Dutta, W. C. Huang, **B. S. Hu** and G. Van de Water,
+  <br/>_A novel investigation of the ATOMKI anomaly_  
+  arXiv:2410.17968. Under review at Phys. Rev. Lett. [arxiv](https://arxiv.org/abs/2410.17968)
+
+45. Y. L. Ye, X. F. Yang, H. Sakurai and **B. S. Hu**.
+  <br/>_Physics of exotic nuclei_  
+  Nature Reviews Physics (2024). [article](https://doi.org/10.1038/s42254-024-00782-5)
+
+44. Z. Ge, M. Reponen, T. Eronen, **B. S. Hu**, et al.
+  <br/>_High-precision mass measurements of neutron deficient silver isotopes probe the robustness of the $N$ = 50 shell closure_  
+  Phys. Rev. Lett. 133, 132503 (2024). arXiv:2401.07976. [article](https://doi.org/10.1103/PhysRevLett.133.132503) [arxiv](https://arxiv.org/abs/2401.07976)
+
+43. **B. S. Hu**.
+  <br/>_How do mirror charge radii constrain density dependence of the symmetry energy?_  
+  Phys. Lett. B 857, 138969 (2024), arXiv:2408.17403. [article](https://doi.org/10.1016/j.physletb.2024.138969) [arxiv](https://arxiv.org/abs/2408.17403)
+
+42. **B. S. Hu**, Z. H. Sun, G. Hagen, and T. Papenbrock. **Editors' Suggestion**
+  <br/>_Ab initio computations of strongly deformed nuclei around $^{80}$Zr_  
+  Phys. Rev. C (Letter) 110, L011302 (2024). arXiv:2405.05052. [article](https://doi.org/10.1103/PhysRevC.110.L011302) [arxiv](https://arxiv.org/abs/2405.05052)
+
+41. **B. S. Hu**, Z. H. Sun, G. Hagen, G. R. Jansen, and T. Papenbrock.
+  <br/>_Ab initio computations from $^{78}$Ni towards $^{70}$Ca along neutron number $N$ = 50_  
+  Phys. Lett. B 858, 139010 (2024). arXiv:2408.07856. [article](https://doi.org/10.1016/j.physletb.2024.139010) [arxiv](https://arxiv.org/abs/2408.07856)
+
+40. Y. Qi and **B. S. Hu**.
+  <br/>_Ab initio calculations of anomalous seniority breaking in the g9/2 shell for the $N$ = 50 isotones_  
+  Phys. Lett. B 858, 139018 (2024). arXiv:2409.10342. [article](https://doi.org/10.1016/j.physletb.2024.139018) [arxiv](https://arxiv.org/abs/2409.10342)
+
 39. B. Acharya, **B. S. Hu**, S. Bacca, G. Hagen, P. Navrátil, and T. Papenbrock.
   <br/>_Magnetic dipole transition in $^{48}$Ca_  
-  Accepted by Phys. Rev. Lett. (2024). arXiv:2311.11438 (2023). [arxiv](https://arxiv.org/abs/2311.11438)
+  Phys. Rev. Lett. 132, 232504 (2024). arXiv:2311.11438 (2023). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.232504) [arxiv](https://arxiv.org/abs/2311.11438)
 
 38. K. König, J. C. Berengut, A. orschevsky, ... , **B. S. Hu**, et al.
   <br/>_Nuclear Charge Radii of Silicon Isotopes_  

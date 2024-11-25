@@ -21,7 +21,8 @@ header:
 ----
 
 ## Professional experience
-- *2022-present*: &nbsp; Postdoctoral Research Associate at ORNL, US
+- *2024-present*: &nbsp; Research Assistant Professor at Texas A&M University, USA
+- *2022-2024*: &nbsp; Postdoctoral Research Associate at ORNL, USA
 - *2019-2022*: &nbsp; Postdoctoral Fellow at TRIUMF, Canada
 - *2017-2019*:     &nbsp; &nbsp; &nbsp; Postdoctoral Research Associate, Peking University, China
 
@@ -58,10 +59,13 @@ header:
 ## Refereeing
 - Physical Review Letters
 - Physical Review C
+- Computer Physics Communications
+- Frontiers in Physics
 - International Journal of Modern Physics E
 - Canadian Journal of Physics
 - Physics Open
 - Physics
+- Particles
 
 ---
 
