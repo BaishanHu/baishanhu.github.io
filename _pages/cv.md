@@ -22,9 +22,9 @@ header:
 
 ## Professional experience
 - *2024-present*: &nbsp; Research Assistant Professor at Texas A&M University, USA
-- *2022-2024*: &nbsp; Postdoctoral Research Associate at ORNL, USA
-- *2019-2022*: &nbsp; Postdoctoral Fellow at TRIUMF, Canada
-- *2017-2019*:     &nbsp; &nbsp; &nbsp; Postdoctoral Research Associate, Peking University, China
+- *2022-2024*: &nbsp; &nbsp; &nbsp; Postdoctoral Research Associate at ORNL, USA
+- *2019-2022*: &nbsp; &nbsp; &nbsp; Postdoctoral Fellow at TRIUMF, Canada
+- *2017-2019*: &nbsp; &nbsp; &nbsp; Postdoctoral Research Associate, Peking University, China
 
 ----
 
@@ -44,6 +44,7 @@ header:
 ---
 
 ## Awards
+- International Union of Pure and Applied Physics (IUPAP) Early Career Scientist Prize, 2025
 - First talk award, Chinese national nuclear structure conference, 2016
 - First award for oral presentation, Physics forum of Chinese five top universities, 2015
 
@@ -57,6 +58,7 @@ header:
 ---
 
 ## Refereeing
+- Nature Communications
 - Physical Review Letters
 - Physical Review C
 - Computer Physics Communications
